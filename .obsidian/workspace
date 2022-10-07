@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "7c02ec1517d981ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ec05cecf11242b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "9.7/3.0 Data Types in Python.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45a1b35343500d2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "362cdce5b5334eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49f2757366b54bdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d4c0607eccf3063",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "365797bd23cb4863",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cffad863a953f7f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8995e8c1d3f4fff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8047dc2410715c0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9.7/3.0 Data Types in Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "160593dd65b1fa54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "9.7/3.0 Data Types in Python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0adacdba5b7ca86b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9f71649a04e1b3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "9.7/3.0 Data Types in Python.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8ec05cecf11242b7",
+  "lastOpenFiles": [
+    "9.7/2.2 How to Declare Variables.md",
+    "9.7/2.0 Variables.md",
+    "9.7/1.0 Flow of Code Execution.md",
+    "9.6/9.6 Explores integrated development environment (IDE) to identify their basic features.md",
+    "9.6/4.0 Degubbing in Python.md",
+    "9.6/3.1  Popular IDEs for Python.md",
+    "9.6/3.0 What is an IDE.md",
+    "9.6/2.1 Hello World.md",
+    "9.6/2.0 How to install Python on your computer.md",
+    "9.6/1.0 What is Python.md"
+  ]
+}
